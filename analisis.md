@@ -9,7 +9,7 @@
 
 **Problema a resolver** 
 
-Basados en el proyecto que se realizo en la materia Gestión de Datos Grandes el semestre pasado(2018-1)
+Basados en el proyecto que se realizo en la materia Gestión de Big Data el semestre pasado(2018-1)
 se decidió usar el proyecto como base para realizar la prueba de concepto.
 
 El proyecto consiste en tomar datos proveeidos por Netflix , normalizarlos para su posterios analisis y mejor uso , y luego , a traves del uso de las redes sociales (twitter) recopilar información en tiempo real (datos vivos) sobre la opinion publica de las peliculas que constituan los datasets de netflix. 
